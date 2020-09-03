@@ -22,3 +22,5 @@ if __name__ == "__main__":
         print("URLError: {0}".format(e))
     except Exception as e:
         print(e)
+
+print(1)
