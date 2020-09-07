@@ -2,8 +2,71 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d684d2be-46fb-4cb4-ab7d-47f69b1b5d24" name="Default Changelist" comment="css颜色字体1">
-      <change beforePath="$PROJECT_DIR$/.idea/wode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/wode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python基础/LuckyNumberSys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python基础/MotoRenSys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python基础/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python基础/oop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python基础/python基础.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python基础/python结构.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python基础/zy1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python基础/zy2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python基础/zy3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python基础/zy4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python基础/zy5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python基础/zy6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python数据爬取/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python数据爬取/aqy/aqy/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python数据爬取/boss/boss/strat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python数据爬取/boss/boss/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python数据爬取/boss/sds .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python数据爬取/headless.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python数据爬取/html_feach_url.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python数据爬取/jd/jd/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python数据爬取/jrtt/jrtt/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python数据爬取/lgw/lgw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python数据爬取/lgw/lgw/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python数据爬取/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python数据爬取/main_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python数据爬取/qcwy/qcwy/start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python数据爬取/qcwy_sp/qcwy_sp/exporters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python数据爬取/qcwy_sp/qcwy_sp/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python数据爬取/quto/quto/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python数据爬取/scrapy_demo/scrapy_demo/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python数据爬取/scrapy_demo/scrapy_demo/runspider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python数据爬取/scrapy_douban/scrapy_douban/db_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python数据爬取/scrapy_douban/scrapy_douban/start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python数据爬取/scrapy_homework/scrapy_homework/start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python数据爬取/seleium.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python数据爬取/selenium操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python数据爬取/souhu/souhu/start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python数据爬取/tianmao/tianmao/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python数据爬取/xueqiu/xueqiu/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python数据爬取/zlzp/zlzp/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python数据爬取/公交车(requests).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python数据爬取/公交车(urllib).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python数据爬取/前程无忧(requests).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/kgc/python数据爬取/前程无忧第一页数据.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/xitike(习题课)/xitike(第6章爬虫与实践)/linux/DHTML/JSjiaoben.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/xitike(习题课)/xitike(第6章爬虫与实践)/linux/DHTML/doubandianying.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/xitike(习题课)/xitike(第6章爬虫与实践)/linux/DHTML/doubandushu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/xitike(习题课)/xitike(第6章爬虫与实践)/linux/DHTML/doubanyinyue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/xitike(习题课)/xitike(第6章爬虫与实践)/linux/DHTML/douban登录.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/xitike(习题课)/xitike(第6章爬虫与实践)/linux/DHTML/jd_spider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/xitike(习题课)/xitike(第6章爬虫与实践)/linux/DHTML/jianshu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/xitike(习题课)/xitike(第6章爬虫与实践)/linux/DHTML/seleium.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/xitike(习题课)/xitike(第6章爬虫与实践)/linux/requests/lagou.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/xitike(习题课)/xitike(第6章爬虫与实践)/linux/requests/lagou2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原电脑/wode/xitike(习题课)/xitike(第6章爬虫与实践)/linux/requests/ll.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/原电脑/wode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/原电脑/wode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/原电脑/wode/xitike(习题课)/xitike(第6章爬虫与实践)/linux/requests/bilibili.py" beforeDir="false" afterPath="$PROJECT_DIR$/原电脑/wode/xitike(习题课)/xitike(第6章爬虫与实践)/linux/requests/bilibili.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/原电脑/wode/爬虫/index.png" beforeDir="false" afterPath="$PROJECT_DIR$/原电脑/wode/爬虫/index.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/原电脑/wode/爬虫/大熊猫.png" beforeDir="false" afterPath="$PROJECT_DIR$/原电脑/wode/爬虫/大熊猫.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/原电脑/wode/爬虫/清空.png" beforeDir="false" afterPath="$PROJECT_DIR$/原电脑/wode/爬虫/清空.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/原电脑/wode/爬虫/航母2.png" beforeDir="false" afterPath="$PROJECT_DIR$/原电脑/wode/爬虫/航母2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/原电脑/wode/爬虫/航空母舰.png" beforeDir="false" afterPath="$PROJECT_DIR$/原电脑/wode/爬虫/航空母舰.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -818,7 +881,7 @@
       <recent name="F:\wode\web免费课" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.bilibili">
+  <component name="RunManager" selected="Python.龟鱼游戏">
     <configuration default="true" type="DjangoTestsConfigurationType">
       <module name="." />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -865,7 +928,7 @@
       <option name="ADDITIONAL_ARGS" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MysqlAPI (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="龟鱼游戏" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="wode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -873,12 +936,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mongodb" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/类(class)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mongodb/MysqlAPI.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/类(class)/龟鱼游戏.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -887,7 +950,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MysqlAPI2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Tkinter_贪吃蛇" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="wode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -895,12 +958,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mongodb" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/原电脑/wode/面板(tkinter)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mongodb/MysqlAPI2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/原电脑/wode/面板(tkinter)/Tkinter_贪吃蛇.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -953,28 +1016,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="newpark" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="wode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/xitike(习题课)/xitike(第6章爬虫与实践)/linux/requests/API" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xitike(习题课)/xitike(第6章爬虫与实践)/linux/requests/API/newpark.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="wode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -989,6 +1030,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mongodb/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tkinter_屏保(完成)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="wode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/原电脑/wode/面板(tkinter)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/原电脑/wode/面板(tkinter)/tkinter_屏保(完成).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1074,11 +1137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.龟鱼游戏" />
+        <item itemvalue="Python.Tkinter_贪吃蛇" />
+        <item itemvalue="Python.tkinter_屏保(完成)" />
         <item itemvalue="Python.bilibili" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.MysqlAPI2" />
-        <item itemvalue="Python.newpark" />
-        <item itemvalue="Python.MysqlAPI (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -1432,21 +1495,41 @@
       <workItem from="1599155457713" duration="2522000" />
       <workItem from="1599158761892" duration="1201000" />
       <workItem from="1599160388837" duration="1519000" />
-      <workItem from="1599162115509" duration="620000" />
-    </task>
-    <task id="LOCAL-00067" summary="chromedriver">
-      <created>1566910058672</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1566910058673</updated>
-    </task>
-    <task id="LOCAL-00068" summary="e3.e4加习题课">
-      <created>1567680743591</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1567680743592</updated>
+      <workItem from="1599162115509" duration="1874000" />
+      <workItem from="1599177665455" duration="58000" />
+      <workItem from="1599362611272" duration="4000" />
+      <workItem from="1599364735155" duration="215000" />
+      <workItem from="1599365036879" duration="72000" />
+      <workItem from="1599365120475" duration="81000" />
+      <workItem from="1599365266989" duration="74000" />
+      <workItem from="1599365353264" duration="28000" />
+      <workItem from="1599375248663" duration="81000" />
+      <workItem from="1599375452587" duration="466000" />
+      <workItem from="1599376518474" duration="48000" />
+      <workItem from="1599376750823" duration="87000" />
+      <workItem from="1599376882260" duration="326000" />
+      <workItem from="1599377516966" duration="34000" />
+      <workItem from="1599377578539" duration="26000" />
+      <workItem from="1599377787121" duration="211000" />
+      <workItem from="1599378155884" duration="90000" />
+      <workItem from="1599378523585" duration="70000" />
+      <workItem from="1599476647718" duration="53000" />
+      <workItem from="1599477262021" duration="180000" />
+      <workItem from="1599483701803" duration="106000" />
+      <workItem from="1599484593823" duration="44000" />
+      <workItem from="1599484747400" duration="15000" />
+      <workItem from="1599484874994" duration="57000" />
+      <workItem from="1599485097287" duration="19000" />
+      <workItem from="1599485139497" duration="35000" />
+      <workItem from="1599485275460" duration="41000" />
+      <workItem from="1599485429142" duration="6000" />
+      <workItem from="1599489561249" duration="22000" />
+      <workItem from="1599489773576" duration="37000" />
+      <workItem from="1599492174335" duration="11000" />
+      <workItem from="1599492192128" duration="11000" />
+      <workItem from="1599494420102" duration="369000" />
+      <workItem from="1599496355460" duration="5000" />
+      <workItem from="1599496813040" duration="112000" />
     </task>
     <task id="LOCAL-00069" summary="e4">
       <created>1567768748766</created>
@@ -1777,7 +1860,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599160083379</updated>
     </task>
-    <option name="localTasksCounter" value="116" />
+    <task id="LOCAL-00116" summary="css颜色字体1">
+      <created>1599162832428</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1599162832429</updated>
+    </task>
+    <task id="LOCAL-00117" summary="test">
+      <created>1599163076835</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1599163076835</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1833,8 +1930,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="css2" />
-    <MESSAGE value="css颜色字体1" />
     <MESSAGE value="css颜色字体完" />
     <MESSAGE value="爬虫与实践spider" />
     <MESSAGE value="爬虫与实践spider5" />
@@ -1858,51 +1953,57 @@
     <MESSAGE value="hupu" />
     <MESSAGE value="喜马拉雅音乐" />
     <MESSAGE value="api" />
-    <option name="LAST_COMMIT_MESSAGE" value="api" />
+    <MESSAGE value="css颜色字体1" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="372" y="4" key="CommitChangelistDialog2" timestamp="1599162738299">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599496934977">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="4" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1599162738299" />
-    <state x="142" y="206" key="FileChooserDialogImpl" timestamp="1599161412098">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1599496934977" />
+    <state x="372" y="4" key="CommitChangelistDialog2" timestamp="1599177719282">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="142" y="206" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599161412098" />
-    <state x="632" y="303" width="272" height="290" key="Github.ShareDialog" timestamp="1599162213080">
+    <state x="372" y="4" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1599177719282" />
+    <state x="142" y="206" key="FileChooserDialogImpl" timestamp="1599496911651">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="632" y="303" width="272" height="290" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1599162213080" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1599162185135">
+    <state x="142" y="206" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599496911651" />
+    <state x="632" y="303" width="272" height="290" key="Github.ShareDialog" timestamp="1599177714896">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599162185135" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1599162185135">
+    <state x="632" y="303" width="272" height="290" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1599177714896" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1599377997776">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599162185135" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1599162185134">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599377997776" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1599377997775">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599162185134" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1599162185135">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599377997775" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1599377997775">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599162185135" />
-    <state x="272" y="57" key="SettingsEditor" timestamp="1599162184050">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599377997775" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1599377997775">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="272" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1599162184050" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1599162415420">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599377997775" />
+    <state x="272" y="57" key="SettingsEditor" timestamp="1599496924486">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1599162415420" />
-    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1599162115925">
+    <state x="272" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1599496924486" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1599163388787">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1599162115925" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1599163388787" />
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1599496813028">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1599496813028" />
     <state x="479" y="203" key="git4idea.merge.GitPullDialog" timestamp="1599162458828">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -1928,6 +2029,11 @@
           <url>file://$PROJECT_DIR$/xitike(习题课)/xitike(第6章爬虫与实践)/linux/03_百度贴吧.py</url>
           <line>11</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/爬虫/v8.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -2040,12 +2146,14 @@
     <SUITE FILE_PATH="coverage/wode$xitike39.coverage" NAME="xitike39 Coverage Results" MODIFIED="1567680824354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xitike" />
     <SUITE FILE_PATH="coverage/wode$01.coverage" NAME="01 Coverage Results" MODIFIED="1580702836312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xitike(习题课)/xitike(第6章爬虫与实践)/linux/requests" />
     <SUITE FILE_PATH="coverage/wode$v39.coverage" NAME="v39 Coverage Results" MODIFIED="1583326380761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
+    <SUITE FILE_PATH="coverage/python$Tkinter_.coverage" NAME="Tkinter_贪吃蛇 Coverage Results" MODIFIED="1599377866750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/原电脑/wode/面板(tkinter)" />
     <SUITE FILE_PATH="coverage/wode$class__.coverage" NAME="class(类练习) Coverage Results" MODIFIED="1557236789490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/wode$MysqlAPI2.coverage" NAME="MysqlAPI2 Coverage Results" MODIFIED="1586251643540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mongodb" />
     <SUITE FILE_PATH="coverage/wode$Ajax__.coverage" NAME="Ajax(异步加载) Coverage Results" MODIFIED="1585459619588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xitike(习题课)/xitike(第6章爬虫与实践)/linux/requests/数据存储" />
     <SUITE FILE_PATH="coverage/wode$v14.coverage" NAME="v14 Coverage Results" MODIFIED="1565275989772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
     <SUITE FILE_PATH="coverage/wode$16.coverage" NAME="多线程16 Coverage Results" MODIFIED="1561804348844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python高级语法/多线程" />
     <SUITE FILE_PATH="coverage/wode$baiduSpider.coverage" NAME="baiduSpider Coverage Results" MODIFIED="1567178146760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../爬虫(scrapy)/e1_scrapy_baidu/e1_scrapy_baidu/spiders" />
+    <SUITE FILE_PATH="coverage/python$tkinter___.coverage" NAME="tkinter_屏保(完成) Coverage Results" MODIFIED="1599376943167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/原电脑/wode/面板(tkinter)" />
     <SUITE FILE_PATH="coverage/wode$list.coverage" NAME="list内置函数 Coverage Results" MODIFIED="1557149989727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/wode$spider_11___.coverage" NAME="spider_11_(斗鱼直播) Coverage Results" MODIFIED="1577972046211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xitike(习题课)/xitike(第6章爬虫与实践)" />
     <SUITE FILE_PATH="coverage/wode$v06.coverage" NAME="v06 Coverage Results" MODIFIED="1563704125418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python高级语法/网络" />
@@ -2077,6 +2185,7 @@
     <SUITE FILE_PATH="coverage/wode$1.coverage" NAME="1 Coverage Results" MODIFIED="1583405572015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xitike(习题课)/xitike(第6章爬虫与实践)/linux/requests/数据存储" />
     <SUITE FILE_PATH="coverage/wode$v22.coverage" NAME="v22 Coverage Results" MODIFIED="1566635123692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
     <SUITE FILE_PATH="coverage/wode$spider_01_.coverage" NAME="spider_01_百度贴吧 Coverage Results" MODIFIED="1577348648370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xitike(习题课)/xitike(第6章爬虫与实践)" />
+    <SUITE FILE_PATH="coverage/python$.coverage" NAME="龟鱼游戏 Coverage Results" MODIFIED="1599496941802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/类(class)" />
     <SUITE FILE_PATH="coverage/wode$v27.coverage" NAME="v27 Coverage Results" MODIFIED="1566305444960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
     <SUITE FILE_PATH="coverage/wode$p02.coverage" NAME="p02 Coverage Results" MODIFIED="1559825573895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python高级语法" />
     <SUITE FILE_PATH="coverage/wode$qqstart.coverage" NAME="qqstart Coverage Results" MODIFIED="1578276226595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../爬虫(scrapy)/e3_qqzhaopin" />
